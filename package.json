@@ -1,0 +1,20 @@
+{
+  "name": "lab5",
+  "version": "1.0.0",
+  "description": "My LAB 5 ",
+  "main": "index.js",
+  "scripts": {
+    "sass-build": "sass --no-source-map scss:css",
+    "sass-watch": "sass --watch --no-source-map scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Somgolie"
+  },
+  "author": "somgolie",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.85.1"
+  }
+}
